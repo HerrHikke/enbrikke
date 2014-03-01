@@ -1,0 +1,6 @@
+#temporary files
+*~
+
+#compiler files
+*.o
+*.x
